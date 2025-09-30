@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Sony",
+        "nim": "82",
+        "prodi": "Informatika",
+        "kelamin": "Laki-laki",
+        "alamat": "Cilegon",
+        "hobi": [
+            "Olahraga"
+        ]
+    },
+    {
+        "nama": "Rangga",
+        "nim": "10",
+        "prodi": "Sistem Informasi",
+        "kelamin": "Laki-laki",
+        "alamat": "Semarang",
+        "hobi": [
+            "Menggambar"
+        ]
+    }
+]
